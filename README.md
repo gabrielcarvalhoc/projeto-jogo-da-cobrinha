@@ -2,7 +2,7 @@
 
 Seja bem vindo! Neste projeto, criei o famoso Jogo da Cobrinha!
 
-Para realizá-lo, utilizei basicamente **JavaScript** , com um pouquinho de **HTML** e **CSS**.
+Para realizá-lo, utilizei basicamente **JavaScript** e com um pouquinho de **HTML** e **CSS**.
 
 Fique à vontade para conferir o resultado neste repositório e, claro, para entrar em contato.
 
