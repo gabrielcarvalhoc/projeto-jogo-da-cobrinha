@@ -1,0 +1,17 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo {
+    color: brown;
+    text-decoration: underline;
+}
+
+canvas#snake {
+    border: 1px solid #000;
+}
