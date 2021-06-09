@@ -1,4 +1,4 @@
-# Projeto - Jogo da Cobrinha :snake:
+# Jogo da Cobrinha :snake:
 
 Seja bem vindo! Neste projeto, criei o famoso Jogo da Cobrinha!
 
